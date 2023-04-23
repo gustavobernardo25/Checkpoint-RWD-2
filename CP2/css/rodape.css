@@ -1,0 +1,17 @@
+.rodape{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #000000;
+}
+.rodape>nav>a>img{
+    width: 5em;
+    margin: 10%;
+}
+.rodape>nav{
+    display: flex;
+    justify-content: space-around;
+}
+.rodape>h2{
+    color: #fff;
+}

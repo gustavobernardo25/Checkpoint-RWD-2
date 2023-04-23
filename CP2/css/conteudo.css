@@ -1,0 +1,36 @@
+.conteudo {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2% 0;
+    
+  }
+
+  .conteudo>article{
+    margin:1em;
+    justify-content: space-evenly;
+    align-items: center;
+    font: 300;
+    display: flex;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 300px;
+  }
+  
+  .conteudo>article img {
+    max-width: 100%;
+    display: block;
+    display:table;
+    background: #f8f8f8;
+    border: 1px solid #ccc;
+    border-bottom:0;
+    padding: .4em;
+   
+  }
+  .conteudo>article figcaption{
+    background: #f8f8f8;
+    text-align: center;
+    font-size:1em;
+    padding:.6em .4em;
+    border: 1px solid #ccc;
+    border-top:0;
+  }
