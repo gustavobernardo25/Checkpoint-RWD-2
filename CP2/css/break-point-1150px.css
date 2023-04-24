@@ -1,0 +1,5 @@
+@media(min-width:770px) and (max-width:1150px) {
+    .cabecalho a {
+        font-size: 2em;
+    }
+}
