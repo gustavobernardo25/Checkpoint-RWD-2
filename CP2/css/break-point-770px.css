@@ -1,0 +1,21 @@
+@media(max-width:770px) {
+    .cabecalho {
+        flex-direction: column;
+    }
+
+    .cabecalho nav {
+        flex-wrap: nowrap;
+        justify-content: space-around;
+    }
+
+    .cabecalho a {
+        font-size: 1.5em;
+    }
+
+    .rodape>nav>a>img {
+        width: 3em;
+        margin: 10%;
+    }
+
+}
+
