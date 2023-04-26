@@ -1,3 +1,4 @@
+@import url("./tit-page.css");
 @import url("./cabecalho.css");
 @import url("./conteudo.css");
 @import url("./rodape.css");
@@ -13,10 +14,4 @@
 
 html{
     font-size: 70%;
-}
-
-.tit-page {
-    font-size: 4rem;
-    text-align: center;
-    margin: 2% 0;
 }

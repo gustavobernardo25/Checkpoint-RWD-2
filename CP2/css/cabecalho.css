@@ -7,6 +7,7 @@
 }
 
 .cabecalho img {
+    margin: 5%;
     width: 20%;
     display: block;
     max-width: 30%;

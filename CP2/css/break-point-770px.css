@@ -1,7 +1,8 @@
 @media(max-width:770px) {
 
     .tit-page {
-        font-size: 1em;
+        font-size: 1.5rem;
+        text-align: center;
     }
 
     .cabecalho {
