@@ -1,4 +1,9 @@
 @media(max-width:770px) {
+
+    .tit-page {
+        font-size:1em;
+    }
+
     .cabecalho {
         flex-direction: column;
     }
@@ -9,7 +14,7 @@
     }
 
     .cabecalho a {
-        font-size: 1.5em;
+        font-size: 1.25em;
     }
 
     .rodape>nav>a>img {
