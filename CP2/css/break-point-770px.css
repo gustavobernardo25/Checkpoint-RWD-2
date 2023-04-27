@@ -9,6 +9,10 @@
         flex-direction: column;
     }
 
+    .cabecalho img {
+        margin: 0;
+    }
+
     .cabecalho nav {
         flex-wrap: nowrap;
         justify-content: space-around;
