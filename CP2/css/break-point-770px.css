@@ -18,6 +18,10 @@
         font-size: 1.25em;
     }
 
+    .rodape {
+        margin: 0%;
+    }
+    
     .rodape>nav>a>img {
         width: 3em;
         margin: 10%;
