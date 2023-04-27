@@ -9,9 +9,8 @@
 
 .cabecalho img {
     margin-left: 10%;
-    width: 15%;
-    height: 15%;
     max-width: 175px;
+    max-height: 150px;
     display: block;
 }
 

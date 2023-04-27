@@ -22,6 +22,11 @@
         font-size: 1.25em;
     }
 
+    .conteudo p {
+        font-size: 15px;
+    }
+    
+
     .conteudo>article img {
         max-width: 200px;
         max-height: 150px;
