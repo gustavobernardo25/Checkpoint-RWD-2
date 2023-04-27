@@ -18,6 +18,13 @@
         font-size: 1.25em;
     }
 
+    .conteudo>article img {
+        max-width: 200px;
+        max-height: 150px;
+        width: auto;
+        height: auto;
+    }
+
     .rodape {
         margin: 0%;
     }
@@ -25,13 +32,6 @@
     .rodape>nav>a>img {
         width: 3em;
         margin: 10%;
-    }
-
-    .conteudo>article img {
-        max-width: 200px;
-        max-height: 150px;
-        width: auto;
-        height: auto;
     }
 
 }

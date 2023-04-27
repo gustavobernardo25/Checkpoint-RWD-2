@@ -4,14 +4,15 @@
     flex-wrap: wrap;
     align-items: center;
     background-color: black;
+    padding: 1% 0;
 }
 
 .cabecalho img {
-    margin: 5%;
-    width: 20%;
+    margin-left: 5%;
+    width: 15%;
+    height: 15%;
     display: block;
     max-width: 30%;
-    margin-left: 2%;
 }
 
 .cabecalho nav {
@@ -27,7 +28,7 @@
     color: #fff;
     font-size: 4em;
     font-weight: 700;
-    padding: 15% 0;
+    padding: 5% 0;
 }
 
 
