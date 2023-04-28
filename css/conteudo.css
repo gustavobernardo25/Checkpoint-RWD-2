@@ -3,11 +3,13 @@
   flex-wrap: wrap;
   max-width: 800px;
   margin: 3% auto;
+  height: 90vh;
 }
 
-.conteudo p{
+.conteudo p {
   font-size: 20px;
   margin-bottom: 5%;
+  text-align: center;
 }
 
 .conteudo>article {
@@ -23,10 +25,10 @@
 
 .conteudo>article img {
 
-  max-width: 370px;
-  max-height: 250px;
-  width: 370px;
-  height: 250px;
+  max-width: 360px;
+  max-height: 245px;
+  width: auto;
+  height: auto;
   display: block;
   display: table;
   background: #f8f8f8;
