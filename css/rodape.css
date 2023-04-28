@@ -1,12 +1,11 @@
 .rodape {
-    position: absolute;
-    top: 100%;
+    position: sticky;
     margin-top: 8%;
     width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex-wrap: nowrap; 
+    flex-wrap: nowrap;
     background-color: #000000;
 }
 

@@ -3,6 +3,7 @@
   flex-wrap: wrap;
   max-width: 800px;
   margin: 3% auto;
+  height: -webkit-fill-available;
 }
 
 .conteudo p {
